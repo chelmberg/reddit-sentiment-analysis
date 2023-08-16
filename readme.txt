@@ -15,7 +15,7 @@ praw, nltk, pyspark, pandas, numpy, matplotlib, sklearn, findspark, time, re, st
 The modules and libraries will be installed automatically when you run the code.
 
 ## Execution
-Run the Jupyter Notebook "team_helmberger_reddit_sentiment.ipynb".
+Run the Jupyter Notebook "reddit_sentiment_analysis.ipynb".
 The part where the posts for each Subreddit will be streamed can last up to five minutes.
 
 ## License
